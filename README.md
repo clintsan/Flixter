@@ -53,7 +53,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="Flixter.gif" width=250><br>
 
 ### Notes
 When I tried to run the app after the final required steps, my emulator stopped working, it would give an error saying it's still runnning when I stopped running it and I had to use command line to delete the locks, then I deleted the emulator and reinstalled it before it started working properly..
